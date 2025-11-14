@@ -1,12 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Timur Cinay
+    - name: Address
+      value: 77 Massachusetts Ave, Building 54-1810, Cambridge, MA, 02139, USA
+    - name: Email
+      value: tcinay@mit.edu
+    - phone: Phone
+      value: +1 585-430-2213
 
 - title: Education
   type: time_table
