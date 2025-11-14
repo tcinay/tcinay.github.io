@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Timur Cinay",
-    "label": "Scientist",
+    "label": "Ph.D Candidate",
     "image": "",
     "email": "tcinay@mit.edu",
     "phone": "(585) 430-2213",
     "url": "",
-    "research interests": "nitrous oxide monitoring; Bayesian inverse modeling; ocean-atmosphere gas exchange; marine nitrogen cycle",
+    "interests": "nitrous oxide monitoring; Bayesian inverse modeling; ocean-atmosphere gas exchange; marine nitrogen cycle",
     "location": {
       "address": "77 Massachusetts Ave, Building 54-1810",
       "postalCode": "MA 02139",
@@ -14,13 +14,6 @@
       "countryCode": "US",
       "region": "Massachusetts"
     },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
   },
   "education": [
     {
