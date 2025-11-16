@@ -1,0 +1,169 @@
+- title: Contact
+  type: map
+  contents:
+    - name: Name
+      value: Timur Cinay
+    - name: Address
+      value: 77 Massachusetts Ave, Building 54-1810, Cambridge, MA, 02139, USA
+    - name: Email
+      value: tcinay@mit.edu
+    - name: Phone
+      value: +1 585-430-2213
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Candidate, Program in Atmospheres, Ocean, and Climate
+      institution: Massachusetts Institute of Technology, Cambridge, MA
+      year: 2021 – Present
+      description:
+        - Advisor — Andrew R. Babbin
+    - title: B.S. in Chemistry & B.S. in Environmental Science
+      institution: University of Rochester, Rochester, NY
+      year: 2017 – 2021
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Marine N<sub>2</sub>O outgassing as El Niño wanes
+      year: 2025
+      description:
+        - <b>Cinay, T.</b>, Ganesan, A. L., Murphy, B. M., Tunnicliffe, R. L., Rigby, M., Babbin, A. R.
+        - <i>submitted</i>
+     - title: Marine emissions and trade winds control the atmospheric nitrous oxide in the Galapagos Islands
+      year: 2025
+      description:
+        - <b>Cinay, T.</b>, Young, D., Narváez Jimenez, N., Vintimilla-Palacios, C., Pila Alonso, A., Krummel, P. B., Vizuete, W., Babbin, A. R.
+        - <i>Atmospheric Chemistry and Physics</i>, 25(9), 4703–4718.
+        - <p>doi : 10.5194/acp-25-4703-2025</p>
+    - title: Coincident biogenic nitrite and pH maxima arise in the upper anoxic layer in the Eastern Tropical North Pacific
+      year: 2022
+      description:
+        - <b>Cinay, T.</b>, Dumit, D., Woosley, R. J., Boles, E. L., Kwiecinski, J. V., Mullen, S., Tamasi, T. J., Wolf, M. J., Kelly, C. L., Travis, N. M., Casciotti, K. L., Babbin, A. R.
+        - <i>Global Biogeochemical Cycles</i>, 36(12), e2022GB007470.
+        - <p>doi:  10.1029/2022GB007470</p>
+   
+
+- title: Contributed Presentations
+  type: time_table
+  contents:
+    - title: Atmospheric measurements reveal an El Niño fingerprint on eastern tropical Pacific nitrous oxide fluxes
+      year: 2025
+      description:
+        - <b>Cinay, T.</b>, Ganesan, A. L., Narváez Jimenez, N., Young, D., Babbin, A. R.
+        - 2025 Gordon Research Conference in Chemical Oceanography, Manchester, NH, USA.
+        - <b>Poster</b>
+    - title: Monitoring marine nitrous oxide emissions from the oxygen minimum zones at the Galapagos Emissions Monitoring Station
+      year: 2024
+      description:
+        - <b>Cinay, T.</b>, Babbin, A. R.
+        - 2024 Ocean Sciences Meeting, New Orleans, LA.  
+        - <b>Poster</b>
+    - title: Coincident Biogenic Nitrite and pH Maxima Arise in the Upper Anoxic Layer in the Eastern Tropical North Pacific
+      year: 2023
+      description:
+        - <b>Cinay, T.</b>, Dumit, D., Woosley, R. J., Boles, E. L., Kwiecinski, J. V., Mullen, S., Tamasi, T. J., Wolf, M. J., Kelly, C. L., Travis, N. M., Casciotti, K. L., Babbin, A. R.
+        - 2022 Gordon Research Seminar in Ocean Biogeochemistry, Barcelona, Spain.
+        - <b>Talk</b>
+
+- title: Datasets
+  type: time_table
+  contents:
+    - title: Nitrous Oxide Emissions Estimates in the Eastern Tropical South Pacific with Inverse Modeling
+      year: 2025
+      description:
+        - <b>Cinay, T.</b>, Babbin, A. R.
+        - Zenodo, Version 1.
+        - <p>doi: 10.5281/zenodo.17373585</p>
+    - title: Monthly atmospheric nitrous oxide (N₂O) and carbon monoxide (CO) mixing ratio measurements from San Cristobal, Galápagos Islands
+      year: 2024
+      description:
+        - Babbin, A. R., <b>T. Cinay</b>
+        - BCO-DMO  
+        - <p>doi: 10.26008/1912/bco-dmo.917743.1</p>
+
+- title: Awards & Fellowships
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - MIT Libraries – MIT Prize for Open Data
+        - MIT EAPS – Houghton Fellowship
+    - year: 2024
+      items:
+        - MIT EAPS – Award for Excellence in Teaching
+        - MIT EAPS – Community Builder Award
+    - year: 2022
+      items:
+        - MIT School of Science – Phillips Fellowship in Environmental Sustainability
+    - year: 2021
+      items:
+        - MIT – Presidential Fellowship
+        - MIT EAPS – Charney Prize
+        - University of Rochester – Annalise Kjolhede Memorial Prize
+        - University of Rochester – Chemistry Department Award
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: MIT 12.004 – Introduction to the Global Carbon Cycle
+      year: 2025
+    - title: Teaching Assistant
+      institution: MIT 12.373/777 – Field Oceanography
+      year: 2024
+    - title: Undergraduate Teaching Assistant
+      institution: University of Rochester – CHEM231W, EESC213, EESC103
+      year: 2019–2020
+
+- title: Service & Outreach
+  type: time_table
+  contents:
+    - title: Peer Reviewer
+      institution: Global Biogeochemical Cycles
+      year: Ongoing
+    - title: Mentor
+      institution: EAPS Application Mentorship Program, MIT
+      year: 2024 – Present
+    - title: Lead
+      institution: EAPS Queer Alliance, MIT
+      year: 2022 – 2025
+    - title: Officer
+      institution: EAPS Student Advisory Committee
+      year: 2021 – 2025
+    - title: Co-Chair
+      institution: Graduate Student Advisory Group to “Climate Science” Faculty Search
+      year: 2024
+
+- title: Fieldwork Experience
+  type: time_table
+  contents:
+    - title: Installation & Maintenance – Galapagos Emissions Monitoring Station
+      institution: San Cristobal, Ecuador
+      year: 2023 – Present
+    - title: Research/Teaching Cruise on <i> R/V Corwith Cramer</i> 
+      institution: Western North Atlantic, Woods Hole, MA
+      year: 2024
+    - title: Research Cruise on <i> R/V Roger Revelle</i> 
+      institution: Eastern Tropical South Pacific, Concepción → Arica, Chile
+      year: 2023
+
+- title: Miscellaneous
+  type: nested_list
+  contents:
+    - title: Professional Memberships
+      items:
+        - American Geophysical Union (AGU)
+    - title: Programming & Software
+      items:
+        - Python
+        - MATLAB
+        - Bash/Unix
+        - LaTeX
+        - Adobe Illustrator
+    - title: Languages
+      items:
+        - Turkish (Fluent)
+        - English (Fluent)
+        - French (Intermediate)
+        - Spanish (Elementary)
