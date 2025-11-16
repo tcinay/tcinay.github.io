@@ -35,13 +35,13 @@
       description:
         - <b>Cinay, T.</b>, Young, D., Narváez Jimenez, N., Vintimilla-Palacios, C., Pila Alonso, A., Krummel, P. B., Vizuete, W., Babbin, A. R.
         - <i>Atmospheric Chemistry and Physics</i>, 25(9), 4703–4718.
-        - <p>doi: 10.5194/acp-25-4703-2025</p>
+        - 10.5194/acp-25-4703-2025
     - title: Coincident biogenic nitrite and pH maxima arise in the upper anoxic layer in the Eastern Tropical North Pacific
       year: 2022
       description:
         - <b>Cinay, T.</b>, Dumit, D., Woosley, R. J., Boles, E. L., Kwiecinski, J. V., Mullen, S., Tamasi, T. J., Wolf, M. J., Kelly, C. L., Travis, N. M., Casciotti, K. L., Babbin, A. R.
         - <i>Global Biogeochemical Cycles</i>, 36(12), e2022GB007470.
-        - <p>doi: 10.1029/2022GB007470</p>
+        - 10.1029/2022GB007470
 
 - title: Contributed Presentations
   type: time_table
@@ -73,13 +73,13 @@
       description:
         - <b>Cinay, T.</b>, Babbin, A. R.
         - Zenodo, Version 1.
-        - <p>doi: 10.5281/zenodo.17373585</p>
+        - 10.5281/zenodo.17373585
     - title: Monthly atmospheric nitrous oxide (N₂O) and carbon monoxide (CO) mixing ratio measurements from San Cristobal, Galápagos Islands
       year: 2024
       description:
         - Babbin, A. R., <b>T. Cinay</b>
         - BCO-DMO
-        - <p>doi: 10.26008/1912/bco-dmo.917743.1</p>
+        - 10.26008/1912/bco-dmo.917743.1
 
 - title: Awards & Fellowships
   type: time_table
@@ -137,7 +137,7 @@
 - title: Fieldwork Experience
   type: time_table
   contents:
-    - title: Installation & Maintenance – Galapagos Emissions Monitoring Station
+    - title: Installation & Maintenance of Galapagos Emissions Monitoring Station
       institution: San Cristobal, Ecuador
       year: 2023 – Present
     - title: Research/Teaching Cruise on <i>R/V Corwith Cramer</i>
