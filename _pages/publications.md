@@ -2,7 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: ""
+description: A complete listing is found in <a href="https://scholar.google.com/citations?hl=en&user=n0pI9cUAAAAJ">
+Google Scholar profile. </a>
 nav: true
 nav_order: 2
 ---
@@ -11,9 +12,7 @@ nav_order: 2
   <h2>Submitted / In-Review</h2>
   {% bibliography --file submitted %}
 </div>
-
 <div class="publications">
   <h2>Peer-Reviewed</h2>
   {% bibliography --file papers %}
 </div>
-
