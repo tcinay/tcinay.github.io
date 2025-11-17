@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A complete listing is found in <a href="https://scholar.google.com/citations?hl=en&user=n0pI9cUAAAAJ"> Google Scholar profile. </a>
+description: "A complete listing is found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=n0pI9cUAAAAJ) profile."
 nav: true
 nav_order: 2
 ---
