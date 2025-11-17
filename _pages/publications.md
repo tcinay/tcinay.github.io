@@ -7,22 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
 <div class="publications">
-
-<h2>Submitted / In-Review</h2>
-
-{% bibliography --file submitted %}
-
+  <h2>Submitted / In-Review</h2>
+  {% bibliography --file submitted %}
 </div>
 
 <div class="publications">
-
-<h2>Peer-Reviewed</h2>
-
-{% bibliography --file papers %}
-
+  <h2>Peer-Reviewed</h2>
+  {% bibliography --file papers %}
 </div>
-
 
