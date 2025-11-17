@@ -9,12 +9,20 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
+<div class="publications">
 
-{% include bib_search.liquid %}
+<h2>Submitted / In-Review</h2>
+
+{% bibliography --file submitted %}
+
+</div>
 
 <div class="publications">
 
-{% bibliography %}
+<h2>Peer-Reviewed</h2>
+
+{% bibliography --file published %}
 
 </div>
+
+
