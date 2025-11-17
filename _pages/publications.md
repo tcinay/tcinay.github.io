@@ -21,7 +21,7 @@ nav_order: 2
 
 <h2>Peer-Reviewed</h2>
 
-{% bibliography --file published %}
+{% bibliography --file papers %}
 
 </div>
 
