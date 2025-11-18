@@ -53,7 +53,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-coupled-marine-inorganic-c-and-n-cycles",
           title: 'Coupled Marine Inorganic C and N Cycles',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
