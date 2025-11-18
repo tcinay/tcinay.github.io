@@ -2,7 +2,7 @@
 layout: page
 title: Galapagos Emissions Monitoring Station
 description: " "
-img: assets/img/12.jpg
+img: assets/img/photoWebsite2.jpg
 importance: 1
 category: work
 related_publications: true
