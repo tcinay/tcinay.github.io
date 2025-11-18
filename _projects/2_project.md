@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coupled Marine Inorganic C and N Cycles
-description: with background image
+description: " "
 img: assets/img/12.jpg
 importance: 2
 category: work
